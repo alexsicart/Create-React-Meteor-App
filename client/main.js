@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import App from './components/app';
-const App = () => {
+const Index = () => {
   return (
     <div>
       <App />
@@ -11,5 +11,5 @@ const App = () => {
 }
 
 Meteor.startup(() => {
-  ReactDOM.render(<App />, document.querySelector('.container'));
+  ReactDOM.render(<Index />, document.querySelector('.container'));
 });
