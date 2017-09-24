@@ -5,6 +5,6 @@
 
 Full-Stack Web Development is the most popular developer occupation today. There are many ways to create a fullstack web application.
 
-[React](https://en.wikipedia.org/wiki/React_(JavaScript_library) is a Javascript library for building user interfaces.
+ **React**, is a Javascript library for building user interfaces.
 
 **Meteor**, is a free and open-source isomorphic JavaScript web framework written using Node.js.
