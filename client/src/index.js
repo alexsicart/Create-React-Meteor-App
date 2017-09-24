@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
+import App from './app.js';
+import registerServiceWorker from './registerServiceWorker';
 
-import App from './components/app';
 const Index = () => {
   return (
     <div>
@@ -12,4 +14,5 @@ const Index = () => {
 
 Meteor.startup(() => {
   ReactDOM.render(<Index />, document.querySelector('.container'));
+  registerServiceWorker();
 });
