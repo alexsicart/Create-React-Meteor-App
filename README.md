@@ -8,3 +8,31 @@ Full-Stack Web Development is the most popular developer occupation today. There
  **React**, is a Javascript library for building user interfaces.
 
 **Meteor**, is a free and open-source isomorphic JavaScript web framework written using Node.js.
+
+## Installation
+
+After forking and cloning the repo:
+
+    cd Create-React-Meteor-App
+     meteor  
+
+
+## Tech Stack
+
+The skeleton app has been created using
+- Meteor
+- React
+
+
+## Contributors
+
+We love pull requests from everyone. By participating in this project, you agree to abide by the thoughtbot
+[code of conduct]: https://thoughtbot.com/open-source-code-of-conduct
+
+Fork, then clone the repo:
+Push to your fork and  [submit a pull request].
+
+
+## License
+
+`Create-React-Meteor-App` is licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php)  license.
