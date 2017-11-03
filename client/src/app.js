@@ -6,7 +6,7 @@ class app extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" className="App-logo" alt="logo" />
+          <img src="https://cdn.worldvectorlogo.com/logos/react.svg" className="App-logo" alt="logo" />
           <img src="https://cdn.worldvectorlogo.com/logos/meteor-icon.svg" className="App-logo" alt="logo" />
           <h2>Welcome to React-Meteor</h2>
         </div>
