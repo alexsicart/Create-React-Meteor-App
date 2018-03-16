@@ -11,12 +11,11 @@ Full-Stack Web Development is the most popular developer occupation today. There
 
 ## Installation
 
-After forking and cloning the repo:
-
+    git clone git@github.com:alexsicart/Create-React-Meteor-App.git
     cd Create-React-Meteor-App
-     meteor  
-
-
+    npm i
+    meteor
+    
 ## Tech Stack
 
 The skeleton app has been created using
