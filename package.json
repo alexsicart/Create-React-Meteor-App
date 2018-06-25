@@ -1,6 +1,7 @@
 {
-  "name": "Create-React-Meteor-App",
-  "private": true,
+  "name": "create-react-meteor-app",
+  "description": "Create React-Meteor apps with no build configuration.",
+  "version": "0.0.1",
   "scripts": {
     "start": "meteor run"
   },
